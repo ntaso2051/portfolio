@@ -67,7 +67,7 @@ export default {
 .game {
   text-align: center;
   width: 800px;
-  height: 500px;
+  height: 550px;
   margin-bottom: 40px;
   padding: 20px;
   background-color: lightgray;
