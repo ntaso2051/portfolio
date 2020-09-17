@@ -2,7 +2,7 @@
   <div class="home">
     <article class="main-image">
       <section>
-        <img class="myicon" src="../assets/icon.png" />
+        <img class="myicon" src="../assets/icon2.png" />
         <h1>ntaso portfolio</h1>
         <p>ここはntasoのポートフォリオサイトです。</p>
       </section>
